@@ -89,7 +89,7 @@ nav .profile-link a {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
-    background-image: url('../ASSETS/BACKGROUNT/microscope-385364_1920.jpg');
+    background-image: url('../ASSETS/BACKGROUNT/Cover.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -350,5 +350,4 @@ footer p .autor:hover {
 
 .proyect-container p {
     font-family: 'Raleway', sans-serif;
-
 }
