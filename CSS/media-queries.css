@@ -67,6 +67,9 @@
 
 @media(max-width: 555px) {
 
+    header .header-icons-container .icons {
+        max-width: 300px;
+    }
     .proyects-main-container {
         display: block;
     }
