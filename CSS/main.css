@@ -185,6 +185,7 @@ nav .profile-link  a:hover {
 .blogs-news-info-container p {
     margin-bottom: 35px;
     font-family: 'Raleway', sans-serif;
+    text-align: justify;
 }
 
 .blogs-posts-container {
@@ -290,15 +291,20 @@ footer p .autor:hover {
     display: flex;
     justify-content: flex-end;
     font-family: 'Raleway', bold;
+    padding-right: 35px;
+    margin: 0 15px;
 }
 
 .blogpost-main-container p {
     font-family: 'Raleway', sans-serif;
+    text-align: justify;
 }
 
 .blogpost-main-container h1 {
     font-size: 35px;
     font-family: 'Zen Dots', cursive;
+    max-width: 80%;
+    margin: 15px auto;
 }
 
 .profile-main-container {
@@ -353,4 +359,17 @@ footer p .autor:hover {
 
 .proyect-container p {
     font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    padding-right: 15px;
 }
+
+.soy-dani {
+    text-align: justify;
+}
+
+.blogpost-main-container p {
+    max-width: 80%;
+    margin: 15px auto;
+    text-align: justify;
+}
+
