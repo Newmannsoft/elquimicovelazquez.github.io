@@ -101,7 +101,7 @@
         margin-right: 0;
         display: flex;
         justify-content: center;
-        max-width: 80%;
+        max-width: 100%;
     }
 
     .blogpost-main-container p {
