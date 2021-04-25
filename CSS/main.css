@@ -82,7 +82,10 @@ nav .profile-link {
 
 nav .profile-link a {
     color: black;
-    border-bottom: 1px solid black;
+}
+
+nav .profile-link  a:hover {
+    color: #47Cfac;
 }
 
 .home-main {
@@ -315,7 +318,7 @@ footer p .autor:hover {
 }
 
 .profile-main-container .profile-container  h2 {
-    font-family: 'Zen Dots', cursive;
+    font-family: 'Raleway', bold;
     padding-bottom: 20px;
     border-bottom: solid 1px #47Cfac;
 }
